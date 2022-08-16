@@ -4,7 +4,7 @@ A lane tracking car project with image processing and openCV. Contains two diffe
 
 The basic algorithm works on Raspberry Pi 3B without a problem, the video was shot with this algorithm.
 
-The advanced one needs much more processing power. In order to provide this processing power, an udp connection established to run on computer. However neither with the Raspberry Pi's Wi-Fi nor with the external Wi-Fi modules we were unable to get rid of communication delays.
+The advanced one needs much more processing power. In order to provide this processing power, an udp connection established to run on computer. However neither with the Raspberry Pi's Wi-Fi nor with the external Wi-Fi modules I was unable to get rid of communication delays.
 
 ### Advanced Algorithm Software Flow Chart
 
